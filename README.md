@@ -1,4 +1,4 @@
-# SQL-instructions
+# SQL-Instructions
 
 As instruções SQL são essenciais para a manipulação e gerenciamento eficiente de bancos de dados, possibilitando consultas precisas e a obtenção de insights importantes a partir dos dados armazenados. Com isso, pode ocorrer a realização de operações como seleção, inserção, atualização e exclusão de registros, proporcionando uma base sólida para análise e tomada de decisões.
 
