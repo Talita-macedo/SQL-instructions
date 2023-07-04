@@ -1,0 +1,12 @@
+-- Inserção de dados
+INSERT INTO tabela (coluna1, coluna2, coluna3)
+VALUES (valor1, valor2, valor3);
+
+-- Atualização de dados
+UPDATE tabela
+SET coluna1 = novo_valor1, coluna2 = novo_valor2
+WHERE condição;
+
+-- Exclusão de dados
+DELETE FROM tabela
+WHERE condição;
